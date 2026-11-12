@@ -1,0 +1,1103 @@
+{
+ "version": 1,
+ "tool": "wd3 0.1.0",
+ "captureId": "victorfranca.lovable.app-429a8c34",
+ "capturedAt": "2026-11-11T18:25:45+00:00",
+ "entry": {
+  "url": "https://victorfranca.lovable.app/",
+  "path": "/",
+  "search": "",
+  "file": "site/victorfranca.lovable.app/index.html",
+  "contentType": "text/html; charset=utf-8"
+ },
+ "blocked": [
+  "^https?://([^/?#]+\\.)?(google\\-analytics\\.com|analytics\\.google\\.com|googletagmanager\\.com|googleadservices\\.com|doubleclick\\.net|googlesyndication\\.com|googleoptimize\\.com|connect\\.facebook\\.net|bat\\.bing\\.com|snap\\.licdn\\.com|px\\.ads\\.linkedin\\.com|analytics\\.tiktok\\.com|ct\\.pinterest\\.com|static\\.ads\\-twitter\\.com|analytics\\.twitter\\.com|tr\\.snapchat\\.com|sc\\-static\\.net|mc\\.yandex\\.ru|hotjar\\.com|hotjar\\.io|clarity\\.ms|cdn\\.segment\\.com|api\\.segment\\.io|cdn\\.mxpnl\\.com|api\\-js\\.mixpanel\\.com|api\\.mixpanel\\.com|api\\.amplitude\\.com|api2\\.amplitude\\.com|api\\-secure\\.amplitude\\.com|api\\-sr\\.amplitude\\.com|sr\\-client\\-cfg\\.amplitude\\.com|plausible\\.io|cloud\\.umami\\.is|analytics\\.umami\\.is|static\\.cloudflareinsights\\.com|cloudflareinsights\\.com|vitals\\.vercel\\-insights\\.com|browser\\-intake\\-datadoghq\\.com|browser\\-intake\\-datadoghq\\.eu|js\\-agent\\.newrelic\\.com|bam\\.nr\\-data\\.net|bam\\-cell\\.nr\\-data\\.net|fullstory\\.com|script\\.crazyegg\\.com|mouseflow\\.com|smartlook\\.com|heapanalytics\\.com|i\\.posthog\\.com|stats\\.wp\\.com|pixel\\.wp\\.com|promotekit\\.com|ingest\\.sentry\\.io|ingest\\.us\\.sentry\\.io|ingest\\.de\\.sentry\\.io|widget\\.intercom\\.io|js\\.intercomcdn\\.com|api\\-iam\\.intercom\\.io|js\\.hs\\-scripts\\.com|js\\.hs\\-analytics\\.net|js\\.hs\\-banner\\.com|js\\.hscollectedforms\\.net|js\\.usemessages\\.com|track\\.hubspot\\.com|client\\.crisp\\.chat|embed\\.tawk\\.to|js\\.driftt\\.com|static\\.zdassets\\.com|ekr\\.zdassets\\.com|cdn\\.cookielaw\\.org|geolocation\\.onetrust\\.com|consent\\.cookiebot\\.com|consentcdn\\.cookiebot\\.com|app\\.usercentrics\\.eu|api\\.usercentrics\\.eu|cdn\\.iubenda\\.com|cmp\\.osano\\.com|cdn\\.termly\\.io)(:\\d+)?([/?#]|$)",
+  "/rpc/increment_shared_code_views",
+  "^https?://(umami|analytics|stats|plausible)\\.[^/]+/(api/send|api/collect|api/event|script\\.js)",
+  "/g/c(ollect)?\\?v=2&",
+  "sentry\\.io/api/\\d+/(envelope|store)",
+  "/api/meta-capi",
+  "^https?://(leadtracker|tracking|track|events?|collect)\\.[^/]+/",
+  "^https?://a\\.vturb\\.com/",
+  "facebook\\.com/tr[/?]",
+  "/_vercel/(speed-)?insights/",
+  "/cdn-cgi/rum",
+  "/cdn-cgi/challenge-platform/",
+  "google\\.com/(pagead|ads)/"
+ ],
+ "volatileParams": [
+  "v",
+  "_rsc",
+  "dpl",
+  "_",
+  "t",
+  "ts",
+  "timestamp",
+  "cb",
+  "cachebust",
+  "cacheBust",
+  "nocache",
+  "rnd",
+  "rand",
+  "random",
+  "_t"
+ ],
+ "entries": [
+  {
+   "url": "https://victorfranca.lovable.app/",
+   "method": "GET",
+   "status": 200,
+   "contentType": "text/html; charset=utf-8",
+   "headers": {
+    "content-type": "text/html; charset=utf-8",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "x-deployment-id": "psr2.06a8f6c9-2698-4739-92de-69d3b5bc3742.1795026346.5DuCqQf9WxZ_XNYgzNkBWuiHgN3o1SPXYLq5DAwxTwA"
+   },
+   "resourceType": "document",
+   "passes": [
+    "desktop",
+    "mobile"
+   ],
+   "file": "site/victorfranca.lovable.app/index.html",
+   "size": 70335,
+   "modes": [
+    "navigate"
+   ]
+  },
+  {
+   "url": "https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&family=Playfair+Display:ital,wght@0,400;0,600;1,400&display=swap",
+   "method": "GET",
+   "status": 200,
+   "contentType": "text/css; charset=utf-8",
+   "headers": {
+    "access-control-allow-origin": "*",
+    "content-type": "text/css; charset=utf-8",
+    "link": "<https://fonts.gstatic.com>; rel=preconnect; crossorigin",
+    "timing-allow-origin": "*"
+   },
+   "resourceType": "stylesheet",
+   "passes": [
+    "desktop",
+    "mobile"
+   ],
+   "file": "site/fonts.googleapis.com/css2__qf8afb697.css",
+   "size": 15103,
+   "modes": [
+    "no-cors"
+   ]
+  },
+  {
+   "url": "https://victorfranca.lovable.app/assets/styles-DGADIc0s.css",
+   "method": "GET",
+   "status": 200,
+   "contentType": "text/css; charset=utf-8",
+   "headers": {
+    "content-type": "text/css; charset=utf-8",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "x-deployment-id": "psr2.06a8f6c9-2698-4739-92de-69d3b5bc3742.1795026347.LzPTAUn5KXhjQmWncRWxirZxmDjiT50s8lwTfhS0Gak"
+   },
+   "resourceType": "stylesheet",
+   "passes": [
+    "desktop",
+    "mobile"
+   ],
+   "file": "site/victorfranca.lovable.app/assets/styles-DGADIc0s.css",
+   "size": 88047,
+   "modes": [
+    "no-cors"
+   ]
+  },
+  {
+   "url": "https://victorfranca.lovable.app/__l5e/assets-v1/7ef057a9-efa0-47ba-a773-13bbd6a8ce6f/victor.png",
+   "method": "GET",
+   "status": 200,
+   "contentType": "image/png",
+   "headers": {
+    "access-control-allow-origin": "*",
+    "content-type": "image/png",
+    "referrer-policy": "strict-origin-when-cross-origin"
+   },
+   "resourceType": "image",
+   "passes": [
+    "desktop",
+    "mobile"
+   ],
+   "file": "site/victorfranca.lovable.app/__l5e/assets-v1/7ef057a9-efa0-47ba-a773-13bbd6a8ce6f/victor.png",
+   "size": 1654368,
+   "modes": [
+    "no-cors"
+   ]
+  },
+  {
+   "url": "https://victorfranca.lovable.app/assets/routes-yuGZ1V2C.js",
+   "method": "GET",
+   "status": 200,
+   "contentType": "text/javascript; charset=utf-8",
+   "headers": {
+    "content-type": "text/javascript; charset=utf-8",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "x-deployment-id": "psr2.06a8f6c9-2698-4739-92de-69d3b5bc3742.1795026347.LzPTAUn5KXhjQmWncRWxirZxmDjiT50s8lwTfhS0Gak"
+   },
+   "resourceType": "script",
+   "passes": [
+    "desktop",
+    "mobile"
+   ],
+   "file": "site/victorfranca.lovable.app/assets/routes-yuGZ1V2C.js",
+   "size": 35488,
+   "modes": [
+    "cors"
+   ]
+  },
+  {
+   "url": "https://victorfranca.lovable.app/__l5e/events.270c78a44fc53e7b.js",
+   "method": "GET",
+   "status": 200,
+   "contentType": "application/javascript; charset=utf-8",
+   "headers": {
+    "content-type": "application/javascript; charset=utf-8",
+    "referrer-policy": "strict-origin-when-cross-origin"
+   },
+   "resourceType": "script",
+   "passes": [
+    "desktop",
+    "mobile"
+   ],
+   "file": "site/victorfranca.lovable.app/__l5e/events.270c78a44fc53e7b.js",
+   "size": 29187,
+   "modes": [
+    "no-cors"
+   ]
+  },
+  {
+   "url": "https://victorfranca.lovable.app/assets/index-4FrN_ENo.js",
+   "method": "GET",
+   "status": 200,
+   "contentType": "text/javascript; charset=utf-8",
+   "headers": {
+    "content-type": "text/javascript; charset=utf-8",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "x-deployment-id": "psr2.06a8f6c9-2698-4739-92de-69d3b5bc3742.1795026347.LzPTAUn5KXhjQmWncRWxirZxmDjiT50s8lwTfhS0Gak"
+   },
+   "resourceType": "script",
+   "passes": [
+    "desktop",
+    "mobile"
+   ],
+   "file": "site/victorfranca.lovable.app/assets/index-4FrN_ENo.js",
+   "size": 345447,
+   "modes": [
+    "cors"
+   ]
+  },
+  {
+   "url": "https://fonts.gstatic.com/s/playfairdisplay/v40/nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_qiTXtHA-X-uE0qEEw.woff2",
+   "method": "GET",
+   "status": 200,
+   "contentType": "font/woff2",
+   "headers": {
+    "access-control-allow-origin": "*",
+    "content-type": "font/woff2",
+    "timing-allow-origin": "*"
+   },
+   "resourceType": "font",
+   "passes": [
+    "desktop"
+   ],
+   "file": "site/fonts.gstatic.com/s/playfairdisplay/v40/nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_qiTXtHA-X-uE0qEEw.woff2",
+   "size": 21952,
+   "modes": [
+    "cors"
+   ]
+  },
+  {
+   "url": "https://fonts.gstatic.com/s/playfairdisplay/v40/nuFiD-vYSZviVYUb_rj3ij__anPXDTzYgEM86xQ.woff2",
+   "method": "GET",
+   "status": 200,
+   "contentType": "font/woff2",
+   "headers": {
+    "access-control-allow-origin": "*",
+    "content-type": "font/woff2",
+    "timing-allow-origin": "*"
+   },
+   "resourceType": "font",
+   "passes": [
+    "desktop",
+    "mobile"
+   ],
+   "file": "site/fonts.gstatic.com/s/playfairdisplay/v40/nuFiD-vYSZviVYUb_rj3ij__anPXDTzYgEM86xQ.woff2",
+   "size": 38460,
+   "modes": [
+    "cors"
+   ]
+  },
+  {
+   "url": "https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7W0Q5nw.woff2",
+   "method": "GET",
+   "status": 200,
+   "contentType": "font/woff2",
+   "headers": {
+    "access-control-allow-origin": "*",
+    "content-type": "font/woff2",
+    "timing-allow-origin": "*"
+   },
+   "resourceType": "font",
+   "passes": [
+    "desktop",
+    "mobile"
+   ],
+   "file": "site/fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7W0Q5nw.woff2",
+   "size": 48432,
+   "modes": [
+    "cors"
+   ]
+  },
+  {
+   "url": "https://fonts.gstatic.com/s/playfairdisplay/v40/nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_qiTXtHA-X-oE0o.woff2",
+   "method": "GET",
+   "status": 200,
+   "contentType": "font/woff2",
+   "headers": {
+    "access-control-allow-origin": "*",
+    "content-type": "font/woff2",
+    "timing-allow-origin": "*"
+   },
+   "resourceType": "font",
+   "passes": [
+    "mobile"
+   ],
+   "file": "site/fonts.gstatic.com/s/playfairdisplay/v40/nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_qiTXtHA-X-oE0o.woff2",
+   "size": 21920,
+   "modes": [
+    "cors"
+   ]
+  },
+  {
+   "url": "https://victorfranca.lovable.app/__l5e/assets-v1/685658ca-58f8-4693-993b-4547ab37f95a/logo1-gray.png",
+   "method": "GET",
+   "status": 200,
+   "contentType": "image/png",
+   "headers": {
+    "access-control-allow-origin": "*",
+    "content-type": "image/png",
+    "referrer-policy": "strict-origin-when-cross-origin"
+   },
+   "resourceType": "image",
+   "passes": [
+    "desktop",
+    "mobile"
+   ],
+   "file": "site/victorfranca.lovable.app/__l5e/assets-v1/685658ca-58f8-4693-993b-4547ab37f95a/logo1-gray.png",
+   "size": 183702,
+   "modes": [
+    "no-cors"
+   ]
+  },
+  {
+   "url": "https://victorfranca.lovable.app/__l5e/assets-v1/78354735-b05f-40be-b930-66cc0aed3f5d/logo22-gray.png",
+   "method": "GET",
+   "status": 200,
+   "contentType": "image/png",
+   "headers": {
+    "access-control-allow-origin": "*",
+    "content-type": "image/png",
+    "referrer-policy": "strict-origin-when-cross-origin"
+   },
+   "resourceType": "image",
+   "passes": [
+    "desktop",
+    "mobile"
+   ],
+   "file": "site/victorfranca.lovable.app/__l5e/assets-v1/78354735-b05f-40be-b930-66cc0aed3f5d/logo22-gray.png",
+   "size": 293063,
+   "modes": [
+    "no-cors"
+   ]
+  },
+  {
+   "url": "https://victorfranca.lovable.app/__l5e/assets-v1/6bc3fdab-a748-483d-b45b-a319ffadda9f/logo2-gray.png",
+   "method": "GET",
+   "status": 200,
+   "contentType": "image/png",
+   "headers": {
+    "access-control-allow-origin": "*",
+    "content-type": "image/png",
+    "referrer-policy": "strict-origin-when-cross-origin"
+   },
+   "resourceType": "image",
+   "passes": [
+    "desktop",
+    "mobile"
+   ],
+   "file": "site/victorfranca.lovable.app/__l5e/assets-v1/6bc3fdab-a748-483d-b45b-a319ffadda9f/logo2-gray.png",
+   "size": 258988,
+   "modes": [
+    "no-cors"
+   ]
+  },
+  {
+   "url": "https://victorfranca.lovable.app/__l5e/assets-v1/87c64e85-4cf6-4f8a-a6bd-f08da9d3cf30/logo27-gray.png",
+   "method": "GET",
+   "status": 200,
+   "contentType": "image/png",
+   "headers": {
+    "access-control-allow-origin": "*",
+    "content-type": "image/png",
+    "referrer-policy": "strict-origin-when-cross-origin"
+   },
+   "resourceType": "image",
+   "passes": [
+    "desktop"
+   ],
+   "file": "site/victorfranca.lovable.app/__l5e/assets-v1/87c64e85-4cf6-4f8a-a6bd-f08da9d3cf30/logo27-gray.png",
+   "size": 246950,
+   "modes": [
+    "no-cors"
+   ]
+  },
+  {
+   "url": "https://victorfranca.lovable.app/__l5e/assets-v1/8dc7d725-754f-4cd0-8d25-c7f8da36b366/logo7-gray.png",
+   "method": "GET",
+   "status": 200,
+   "contentType": "image/png",
+   "headers": {
+    "access-control-allow-origin": "*",
+    "content-type": "image/png",
+    "referrer-policy": "strict-origin-when-cross-origin"
+   },
+   "resourceType": "image",
+   "passes": [
+    "desktop",
+    "mobile"
+   ],
+   "file": "site/victorfranca.lovable.app/__l5e/assets-v1/8dc7d725-754f-4cd0-8d25-c7f8da36b366/logo7-gray.png",
+   "size": 247698,
+   "modes": [
+    "no-cors"
+   ]
+  },
+  {
+   "url": "https://victorfranca.lovable.app/__l5e/assets-v1/46580d75-b0e5-4134-8122-011ceef15277/logo21-gray.png",
+   "method": "GET",
+   "status": 200,
+   "contentType": "image/png",
+   "headers": {
+    "access-control-allow-origin": "*",
+    "content-type": "image/png",
+    "referrer-policy": "strict-origin-when-cross-origin"
+   },
+   "resourceType": "image",
+   "passes": [
+    "desktop",
+    "mobile"
+   ],
+   "file": "site/victorfranca.lovable.app/__l5e/assets-v1/46580d75-b0e5-4134-8122-011ceef15277/logo21-gray.png",
+   "size": 358443,
+   "modes": [
+    "no-cors"
+   ]
+  },
+  {
+   "url": "https://victorfranca.lovable.app/__l5e/assets-v1/917a8891-98dd-44df-9f8f-181a6e2f3f8f/logo24-gray.png",
+   "method": "GET",
+   "status": 200,
+   "contentType": "image/png",
+   "headers": {
+    "access-control-allow-origin": "*",
+    "content-type": "image/png",
+    "referrer-policy": "strict-origin-when-cross-origin"
+   },
+   "resourceType": "image",
+   "passes": [
+    "desktop"
+   ],
+   "file": "site/victorfranca.lovable.app/__l5e/assets-v1/917a8891-98dd-44df-9f8f-181a6e2f3f8f/logo24-gray.png",
+   "size": 205561,
+   "modes": [
+    "no-cors"
+   ]
+  },
+  {
+   "url": "https://victorfranca.lovable.app/__l5e/assets-v1/c1d8f0ec-1422-47f4-ae05-3c2452d39ba0/logo4-gray.png",
+   "method": "GET",
+   "status": 200,
+   "contentType": "image/png",
+   "headers": {
+    "access-control-allow-origin": "*",
+    "content-type": "image/png",
+    "referrer-policy": "strict-origin-when-cross-origin"
+   },
+   "resourceType": "image",
+   "passes": [
+    "desktop",
+    "mobile"
+   ],
+   "file": "site/victorfranca.lovable.app/__l5e/assets-v1/c1d8f0ec-1422-47f4-ae05-3c2452d39ba0/logo4-gray.png",
+   "size": 256414,
+   "modes": [
+    "no-cors"
+   ]
+  },
+  {
+   "url": "https://victorfranca.lovable.app/__l5e/assets-v1/caa02ebd-dcfa-4f50-a6d4-7e2dde33afa5/logo25-gray.png",
+   "method": "GET",
+   "status": 200,
+   "contentType": "image/png",
+   "headers": {
+    "access-control-allow-origin": "*",
+    "content-type": "image/png",
+    "referrer-policy": "strict-origin-when-cross-origin"
+   },
+   "resourceType": "image",
+   "passes": [
+    "desktop"
+   ],
+   "file": "site/victorfranca.lovable.app/__l5e/assets-v1/caa02ebd-dcfa-4f50-a6d4-7e2dde33afa5/logo25-gray.png",
+   "size": 382094,
+   "modes": [
+    "no-cors"
+   ]
+  },
+  {
+   "url": "https://victorfranca.lovable.app/__l5e/assets-v1/12a1cf39-f4c8-4894-826a-23c756ecb570/logo3-gray.png",
+   "method": "GET",
+   "status": 200,
+   "contentType": "image/png",
+   "headers": {
+    "access-control-allow-origin": "*",
+    "content-type": "image/png",
+    "referrer-policy": "strict-origin-when-cross-origin"
+   },
+   "resourceType": "image",
+   "passes": [
+    "desktop",
+    "mobile"
+   ],
+   "file": "site/victorfranca.lovable.app/__l5e/assets-v1/12a1cf39-f4c8-4894-826a-23c756ecb570/logo3-gray.png",
+   "size": 230686,
+   "modes": [
+    "no-cors"
+   ]
+  },
+  {
+   "url": "https://victorfranca.lovable.app/__l5e/assets-v1/0d4557c7-b6bc-4d3f-a0bc-51f676402e08/logo6-gray.png",
+   "method": "GET",
+   "status": 200,
+   "contentType": "image/png",
+   "headers": {
+    "access-control-allow-origin": "*",
+    "content-type": "image/png",
+    "referrer-policy": "strict-origin-when-cross-origin"
+   },
+   "resourceType": "image",
+   "passes": [
+    "desktop",
+    "mobile"
+   ],
+   "file": "site/victorfranca.lovable.app/__l5e/assets-v1/0d4557c7-b6bc-4d3f-a0bc-51f676402e08/logo6-gray.png",
+   "size": 549776,
+   "modes": [
+    "no-cors"
+   ]
+  },
+  {
+   "url": "https://victorfranca.lovable.app/__l5e/assets-v1/1daa0136-c71a-4dc6-9225-99bd00630ad6/logo8-gray.png",
+   "method": "GET",
+   "status": 200,
+   "contentType": "image/png",
+   "headers": {
+    "access-control-allow-origin": "*",
+    "content-type": "image/png",
+    "referrer-policy": "strict-origin-when-cross-origin"
+   },
+   "resourceType": "image",
+   "passes": [
+    "desktop",
+    "mobile"
+   ],
+   "file": "site/victorfranca.lovable.app/__l5e/assets-v1/1daa0136-c71a-4dc6-9225-99bd00630ad6/logo8-gray.png",
+   "size": 457466,
+   "modes": [
+    "no-cors"
+   ]
+  },
+  {
+   "url": "https://victorfranca.lovable.app/__l5e/trackevents",
+   "method": "POST",
+   "status": 202,
+   "contentType": "application/json",
+   "headers": {
+    "content-type": "application/json",
+    "referrer-policy": "strict-origin-when-cross-origin"
+   },
+   "resourceType": "fetch",
+   "passes": [
+    "desktop"
+   ],
+   "file": "site/victorfranca.lovable.app/__l5e/trackevents__post512e2921.json",
+   "size": 17,
+   "bodyHash": "512e292167c2897c20a2c83ffb4d8e2d6163b37cad4075857732dd29d761b2ee"
+  },
+  {
+   "url": "https://victorfranca.lovable.app/__l5e/assets-v1/aa678460-11a5-4cc6-8ce6-41f16e1d596a/logo26-gray.png",
+   "method": "GET",
+   "status": 200,
+   "contentType": "image/png",
+   "headers": {
+    "access-control-allow-origin": "*",
+    "content-type": "image/png",
+    "referrer-policy": "strict-origin-when-cross-origin"
+   },
+   "resourceType": "image",
+   "passes": [
+    "desktop"
+   ],
+   "file": "site/victorfranca.lovable.app/__l5e/assets-v1/aa678460-11a5-4cc6-8ce6-41f16e1d596a/logo26-gray.png",
+   "size": 263858,
+   "modes": [
+    "no-cors"
+   ]
+  },
+  {
+   "url": "https://victorfranca.lovable.app/__l5e/trackevents",
+   "method": "POST",
+   "status": 202,
+   "contentType": "application/json",
+   "headers": {
+    "content-type": "application/json",
+    "referrer-policy": "strict-origin-when-cross-origin"
+   },
+   "resourceType": "fetch",
+   "passes": [
+    "mobile"
+   ],
+   "file": "site/victorfranca.lovable.app/__l5e/trackevents__post80fbe706.json",
+   "size": 17,
+   "bodyHash": "80fbe706c2cda42118119546db60dfaac0156ef3d226907d5af16a923441de5e"
+  },
+  {
+   "url": "https://victorfranca.lovable.app/__l5e/assets-v1/295b8080-10ee-4b6f-8985-a4e8c03b258b/logo23-gray.png",
+   "method": "GET",
+   "status": 200,
+   "contentType": "image/png",
+   "headers": {
+    "access-control-allow-origin": "*",
+    "content-type": "image/png",
+    "referrer-policy": "strict-origin-when-cross-origin"
+   },
+   "resourceType": "image",
+   "passes": [
+    "desktop"
+   ],
+   "file": "site/victorfranca.lovable.app/__l5e/assets-v1/295b8080-10ee-4b6f-8985-a4e8c03b258b/logo23-gray.png",
+   "size": 651449,
+   "modes": [
+    "no-cors"
+   ]
+  },
+  {
+   "url": "https://victorfranca.lovable.app/__l5e/assets-v1/88f5af59-ae6f-4408-a551-76875ba50045/logo38-gray.png",
+   "method": "GET",
+   "status": 200,
+   "contentType": "image/png",
+   "headers": {
+    "access-control-allow-origin": "*",
+    "content-type": "image/png",
+    "referrer-policy": "strict-origin-when-cross-origin"
+   },
+   "resourceType": "image",
+   "passes": [
+    "desktop",
+    "mobile"
+   ],
+   "file": "site/victorfranca.lovable.app/__l5e/assets-v1/88f5af59-ae6f-4408-a551-76875ba50045/logo38-gray.png",
+   "size": 99053,
+   "modes": [
+    "no-cors"
+   ]
+  },
+  {
+   "url": "https://victorfranca.lovable.app/__l5e/assets-v1/75a04ab5-8533-4f11-ab4f-6b2d3d47080b/logo9-gray.png",
+   "method": "GET",
+   "status": 200,
+   "contentType": "image/png",
+   "headers": {
+    "access-control-allow-origin": "*",
+    "content-type": "image/png",
+    "referrer-policy": "strict-origin-when-cross-origin"
+   },
+   "resourceType": "image",
+   "passes": [
+    "desktop",
+    "mobile"
+   ],
+   "file": "site/victorfranca.lovable.app/__l5e/assets-v1/75a04ab5-8533-4f11-ab4f-6b2d3d47080b/logo9-gray.png",
+   "size": 252501,
+   "modes": [
+    "no-cors"
+   ]
+  },
+  {
+   "url": "https://victorfranca.lovable.app/__l5e/assets-v1/22fd832f-e0f9-4d53-a06d-fe8abb7241a2/logo37-gray.png",
+   "method": "GET",
+   "status": 200,
+   "contentType": "image/png",
+   "headers": {
+    "access-control-allow-origin": "*",
+    "content-type": "image/png",
+    "referrer-policy": "strict-origin-when-cross-origin"
+   },
+   "resourceType": "image",
+   "passes": [
+    "mobile",
+    "desktop"
+   ],
+   "file": "site/victorfranca.lovable.app/__l5e/assets-v1/22fd832f-e0f9-4d53-a06d-fe8abb7241a2/logo37-gray.png",
+   "size": 123728,
+   "modes": [
+    "no-cors"
+   ]
+  },
+  {
+   "url": "https://victorfranca.lovable.app/__l5e/assets-v1/8e13533f-7adf-46d2-86c2-a4472179160f/logo10-gray.png",
+   "method": "GET",
+   "status": 200,
+   "contentType": "image/png",
+   "headers": {
+    "access-control-allow-origin": "*",
+    "content-type": "image/png",
+    "referrer-policy": "strict-origin-when-cross-origin"
+   },
+   "resourceType": "image",
+   "passes": [
+    "desktop",
+    "mobile"
+   ],
+   "file": "site/victorfranca.lovable.app/__l5e/assets-v1/8e13533f-7adf-46d2-86c2-a4472179160f/logo10-gray.png",
+   "size": 550069,
+   "modes": [
+    "no-cors"
+   ]
+  },
+  {
+   "url": "https://victorfranca.lovable.app/__l5e/assets-v1/bde549de-850e-411b-9477-4d4d1de05df2/logo36-gray.png",
+   "method": "GET",
+   "status": 200,
+   "contentType": "image/png",
+   "headers": {
+    "access-control-allow-origin": "*",
+    "content-type": "image/png",
+    "referrer-policy": "strict-origin-when-cross-origin"
+   },
+   "resourceType": "image",
+   "passes": [
+    "desktop",
+    "mobile"
+   ],
+   "file": "site/victorfranca.lovable.app/__l5e/assets-v1/bde549de-850e-411b-9477-4d4d1de05df2/logo36-gray.png",
+   "size": 282124,
+   "modes": [
+    "no-cors"
+   ]
+  },
+  {
+   "url": "https://victorfranca.lovable.app/__l5e/assets-v1/691f6d61-9db6-4ab4-b5d4-7672d8f422a2/logo18-gray.png",
+   "method": "GET",
+   "status": 200,
+   "contentType": "image/png",
+   "headers": {
+    "access-control-allow-origin": "*",
+    "content-type": "image/png",
+    "referrer-policy": "strict-origin-when-cross-origin"
+   },
+   "resourceType": "image",
+   "passes": [
+    "desktop"
+   ],
+   "file": "site/victorfranca.lovable.app/__l5e/assets-v1/691f6d61-9db6-4ab4-b5d4-7672d8f422a2/logo18-gray.png",
+   "size": 105841,
+   "modes": [
+    "no-cors"
+   ]
+  },
+  {
+   "url": "https://victorfranca.lovable.app/__l5e/assets-v1/2c3b7a72-4f49-47ac-bcc5-ed22fef39e47/logo34-gray.png",
+   "method": "GET",
+   "status": 200,
+   "contentType": "image/png",
+   "headers": {
+    "access-control-allow-origin": "*",
+    "content-type": "image/png",
+    "referrer-policy": "strict-origin-when-cross-origin"
+   },
+   "resourceType": "image",
+   "passes": [
+    "desktop",
+    "mobile"
+   ],
+   "file": "site/victorfranca.lovable.app/__l5e/assets-v1/2c3b7a72-4f49-47ac-bcc5-ed22fef39e47/logo34-gray.png",
+   "size": 224661,
+   "modes": [
+    "no-cors"
+   ]
+  },
+  {
+   "url": "https://victorfranca.lovable.app/__l5e/assets-v1/cbf44b4f-0870-46aa-9d41-0f7a2db97d76/logo33-gray.png",
+   "method": "GET",
+   "status": 200,
+   "contentType": "image/png",
+   "headers": {
+    "access-control-allow-origin": "*",
+    "content-type": "image/png",
+    "referrer-policy": "strict-origin-when-cross-origin"
+   },
+   "resourceType": "image",
+   "passes": [
+    "desktop",
+    "mobile"
+   ],
+   "file": "site/victorfranca.lovable.app/__l5e/assets-v1/cbf44b4f-0870-46aa-9d41-0f7a2db97d76/logo33-gray.png",
+   "size": 108909,
+   "modes": [
+    "no-cors"
+   ]
+  },
+  {
+   "url": "https://victorfranca.lovable.app/__l5e/assets-v1/e8af39ff-e28c-493d-adf0-c61e45fe0138/logo31-gray.png",
+   "method": "GET",
+   "status": 200,
+   "contentType": "image/png",
+   "headers": {
+    "access-control-allow-origin": "*",
+    "content-type": "image/png",
+    "referrer-policy": "strict-origin-when-cross-origin"
+   },
+   "resourceType": "image",
+   "passes": [
+    "desktop"
+   ],
+   "file": "site/victorfranca.lovable.app/__l5e/assets-v1/e8af39ff-e28c-493d-adf0-c61e45fe0138/logo31-gray.png",
+   "size": 137309,
+   "modes": [
+    "no-cors"
+   ]
+  },
+  {
+   "url": "https://victorfranca.lovable.app/__l5e/assets-v1/e941320a-1719-47ee-8bba-8dfa0b82cb80/logo11-gray.png",
+   "method": "GET",
+   "status": 200,
+   "contentType": "image/png",
+   "headers": {
+    "access-control-allow-origin": "*",
+    "content-type": "image/png",
+    "referrer-policy": "strict-origin-when-cross-origin"
+   },
+   "resourceType": "image",
+   "passes": [
+    "desktop"
+   ],
+   "file": "site/victorfranca.lovable.app/__l5e/assets-v1/e941320a-1719-47ee-8bba-8dfa0b82cb80/logo11-gray.png",
+   "size": 329877,
+   "modes": [
+    "no-cors"
+   ]
+  },
+  {
+   "url": "https://victorfranca.lovable.app/__l5e/assets-v1/d94e935a-e654-4526-a511-f9eb4fea476b/logo35-gray.png",
+   "method": "GET",
+   "status": 200,
+   "contentType": "image/png",
+   "headers": {
+    "access-control-allow-origin": "*",
+    "content-type": "image/png",
+    "referrer-policy": "strict-origin-when-cross-origin"
+   },
+   "resourceType": "image",
+   "passes": [
+    "desktop",
+    "mobile"
+   ],
+   "file": "site/victorfranca.lovable.app/__l5e/assets-v1/d94e935a-e654-4526-a511-f9eb4fea476b/logo35-gray.png",
+   "size": 196453,
+   "modes": [
+    "no-cors"
+   ]
+  },
+  {
+   "url": "https://victorfranca.lovable.app/__l5e/assets-v1/17aed14c-d9a4-408e-ba3a-07fcecbaa15b/logo32-gray.png",
+   "method": "GET",
+   "status": 200,
+   "contentType": "image/png",
+   "headers": {
+    "access-control-allow-origin": "*",
+    "content-type": "image/png",
+    "referrer-policy": "strict-origin-when-cross-origin"
+   },
+   "resourceType": "image",
+   "passes": [
+    "desktop",
+    "mobile"
+   ],
+   "file": "site/victorfranca.lovable.app/__l5e/assets-v1/17aed14c-d9a4-408e-ba3a-07fcecbaa15b/logo32-gray.png",
+   "size": 292449,
+   "modes": [
+    "no-cors"
+   ]
+  },
+  {
+   "url": "https://victorfranca.lovable.app/__l5e/assets-v1/b3251906-9582-4569-bbef-f39c197eebe2/logo16-gray.png",
+   "method": "GET",
+   "status": 200,
+   "contentType": "image/png",
+   "headers": {
+    "access-control-allow-origin": "*",
+    "content-type": "image/png",
+    "referrer-policy": "strict-origin-when-cross-origin"
+   },
+   "resourceType": "image",
+   "passes": [
+    "desktop"
+   ],
+   "file": "site/victorfranca.lovable.app/__l5e/assets-v1/b3251906-9582-4569-bbef-f39c197eebe2/logo16-gray.png",
+   "size": 605118,
+   "modes": [
+    "no-cors"
+   ]
+  },
+  {
+   "url": "https://victorfranca.lovable.app/__l5e/assets-v1/5f70a781-5e77-4fb7-8ac6-94f74ee64b88/logo14-gray.png",
+   "method": "GET",
+   "status": 200,
+   "contentType": "image/png",
+   "headers": {
+    "access-control-allow-origin": "*",
+    "content-type": "image/png",
+    "referrer-policy": "strict-origin-when-cross-origin"
+   },
+   "resourceType": "image",
+   "passes": [
+    "desktop"
+   ],
+   "file": "site/victorfranca.lovable.app/__l5e/assets-v1/5f70a781-5e77-4fb7-8ac6-94f74ee64b88/logo14-gray.png",
+   "size": 643524,
+   "modes": [
+    "no-cors"
+   ]
+  },
+  {
+   "url": "https://victorfranca.lovable.app/__l5e/assets-v1/ea6c4644-b29c-4692-a816-c43eca99bcfd/logo30-gray.png",
+   "method": "GET",
+   "status": 200,
+   "contentType": "image/png",
+   "headers": {
+    "access-control-allow-origin": "*",
+    "content-type": "image/png",
+    "referrer-policy": "strict-origin-when-cross-origin"
+   },
+   "resourceType": "image",
+   "passes": [
+    "desktop"
+   ],
+   "file": "site/victorfranca.lovable.app/__l5e/assets-v1/ea6c4644-b29c-4692-a816-c43eca99bcfd/logo30-gray.png",
+   "size": 316847,
+   "modes": [
+    "no-cors"
+   ]
+  },
+  {
+   "url": "https://victorfranca.lovable.app/__l5e/assets-v1/42bfda04-ddb9-42be-97d1-3a7b33f29b17/logo20-gray.png",
+   "method": "GET",
+   "status": 200,
+   "contentType": "image/png",
+   "headers": {
+    "access-control-allow-origin": "*",
+    "content-type": "image/png",
+    "referrer-policy": "strict-origin-when-cross-origin"
+   },
+   "resourceType": "image",
+   "passes": [
+    "desktop"
+   ],
+   "file": "site/victorfranca.lovable.app/__l5e/assets-v1/42bfda04-ddb9-42be-97d1-3a7b33f29b17/logo20-gray.png",
+   "size": 139249,
+   "modes": [
+    "no-cors"
+   ]
+  },
+  {
+   "url": "https://victorfranca.lovable.app/__l5e/assets-v1/644ee9f9-7966-45e1-a7d5-1d79f6817c2e/logo15-gray.png",
+   "method": "GET",
+   "status": 200,
+   "contentType": "image/png",
+   "headers": {
+    "access-control-allow-origin": "*",
+    "content-type": "image/png",
+    "referrer-policy": "strict-origin-when-cross-origin"
+   },
+   "resourceType": "image",
+   "passes": [
+    "desktop"
+   ],
+   "file": "site/victorfranca.lovable.app/__l5e/assets-v1/644ee9f9-7966-45e1-a7d5-1d79f6817c2e/logo15-gray.png",
+   "size": 181324,
+   "modes": [
+    "no-cors"
+   ]
+  },
+  {
+   "url": "https://victorfranca.lovable.app/__l5e/assets-v1/30dd4ba2-9c84-4502-a996-0766ed4d72b0/logo28-gray.png",
+   "method": "GET",
+   "status": 200,
+   "contentType": "image/png",
+   "headers": {
+    "access-control-allow-origin": "*",
+    "content-type": "image/png",
+    "referrer-policy": "strict-origin-when-cross-origin"
+   },
+   "resourceType": "image",
+   "passes": [
+    "desktop"
+   ],
+   "file": "site/victorfranca.lovable.app/__l5e/assets-v1/30dd4ba2-9c84-4502-a996-0766ed4d72b0/logo28-gray.png",
+   "size": 530755,
+   "modes": [
+    "no-cors"
+   ]
+  },
+  {
+   "url": "https://victorfranca.lovable.app/__l5e/assets-v1/d6714b3a-3b9a-410e-9682-ee4048227e1c/logo13-gray.png",
+   "method": "GET",
+   "status": 200,
+   "contentType": "image/png",
+   "headers": {
+    "access-control-allow-origin": "*",
+    "content-type": "image/png",
+    "referrer-policy": "strict-origin-when-cross-origin"
+   },
+   "resourceType": "image",
+   "passes": [
+    "desktop"
+   ],
+   "file": "site/victorfranca.lovable.app/__l5e/assets-v1/d6714b3a-3b9a-410e-9682-ee4048227e1c/logo13-gray.png",
+   "size": 189523,
+   "modes": [
+    "no-cors"
+   ]
+  },
+  {
+   "url": "https://victorfranca.lovable.app/__l5e/assets-v1/d7ea8f72-c8f5-4644-8038-20d534a027a8/logo19-gray.png",
+   "method": "GET",
+   "status": 200,
+   "contentType": "image/png",
+   "headers": {
+    "access-control-allow-origin": "*",
+    "content-type": "image/png",
+    "referrer-policy": "strict-origin-when-cross-origin"
+   },
+   "resourceType": "image",
+   "passes": [
+    "desktop"
+   ],
+   "file": "site/victorfranca.lovable.app/__l5e/assets-v1/d7ea8f72-c8f5-4644-8038-20d534a027a8/logo19-gray.png",
+   "size": 469865,
+   "modes": [
+    "no-cors"
+   ]
+  },
+  {
+   "url": "https://victorfranca.lovable.app/__l5e/assets-v1/26d2c20c-0a90-4d43-bf10-ec518e632829/logo12-gray.png",
+   "method": "GET",
+   "status": 200,
+   "contentType": "image/png",
+   "headers": {
+    "access-control-allow-origin": "*",
+    "content-type": "image/png",
+    "referrer-policy": "strict-origin-when-cross-origin"
+   },
+   "resourceType": "image",
+   "passes": [
+    "desktop"
+   ],
+   "file": "site/victorfranca.lovable.app/__l5e/assets-v1/26d2c20c-0a90-4d43-bf10-ec518e632829/logo12-gray.png",
+   "size": 627604,
+   "modes": [
+    "no-cors"
+   ]
+  },
+  {
+   "url": "https://victorfranca.lovable.app/__l5e/assets-v1/7088b716-e39e-4e22-a617-1e004f8a926d/logo29-gray.png",
+   "method": "GET",
+   "status": 200,
+   "contentType": "image/png",
+   "headers": {
+    "access-control-allow-origin": "*",
+    "content-type": "image/png",
+    "referrer-policy": "strict-origin-when-cross-origin"
+   },
+   "resourceType": "image",
+   "passes": [
+    "desktop"
+   ],
+   "file": "site/victorfranca.lovable.app/__l5e/assets-v1/7088b716-e39e-4e22-a617-1e004f8a926d/logo29-gray.png",
+   "size": 902496,
+   "modes": [
+    "no-cors"
+   ]
+  },
+  {
+   "url": "https://victorfranca.lovable.app/__l5e/trackevents",
+   "method": "POST",
+   "status": 202,
+   "contentType": "application/json",
+   "headers": {
+    "content-type": "application/json",
+    "referrer-policy": "strict-origin-when-cross-origin"
+   },
+   "resourceType": "fetch",
+   "passes": [
+    "desktop"
+   ],
+   "file": "site/victorfranca.lovable.app/__l5e/trackevents__postcfe363cd.json",
+   "size": 17,
+   "bodyHash": "cfe363cd5fd92143f564ff78982db865b1e178cd60e82640333f7694cbd38661"
+  },
+  {
+   "url": "https://victorfranca.lovable.app/__l5e/trackevents",
+   "method": "POST",
+   "status": 202,
+   "contentType": "application/json",
+   "headers": {
+    "content-type": "application/json",
+    "referrer-policy": "strict-origin-when-cross-origin"
+   },
+   "resourceType": "fetch",
+   "passes": [
+    "mobile"
+   ],
+   "file": "site/victorfranca.lovable.app/__l5e/trackevents__postcd196f83.json",
+   "size": 17,
+   "bodyHash": "cd196f83d06a9331921cec9ec33f25659cd62f0c993555a4215b9e9b58e51347"
+  },
+  {
+   "url": "https://victorfranca.lovable.app/favicon.ico",
+   "method": "GET",
+   "status": 200,
+   "contentType": "image/vnd.microsoft.icon",
+   "headers": {
+    "content-type": "image/vnd.microsoft.icon",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "x-deployment-id": "psr2.06a8f6c9-2698-4739-92de-69d3b5bc3742.1795026362.mi0BDrXoc66CnJup-NBHq2W80-3wEBtvY8MeJbmXRnQ"
+   },
+   "resourceType": "other",
+   "passes": [
+    "desktop"
+   ],
+   "file": "site/victorfranca.lovable.app/favicon.ico",
+   "size": 20373
+  }
+ ],
+ "videos": {
+  "posters": {},
+  "onlineHosts": []
+ }
+}

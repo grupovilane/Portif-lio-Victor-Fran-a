@@ -1,0 +1,667 @@
+{
+ "entryUrl": "https://victorfranca.lovable.app/",
+ "capturedAt": "2026-11-11T18:25:45+00:00",
+ "indexHtml": {
+  "kind": "snapshot",
+  "description": "DOM renderizado (depois do JS), sem os scripts do site; CSS gerado em runtime em site/_runtime/style-*.css; <canvas> ficam vazios (o desenho só existe no site vivo)",
+  "runtimeStyles": 1
+ },
+ "files": [
+  {
+   "url": "https://victorfranca.lovable.app/__l5e/assets-v1/0d4557c7-b6bc-4d3f-a0bc-51f676402e08/logo6-gray.png",
+   "file": "site/victorfranca.lovable.app/__l5e/assets-v1/0d4557c7-b6bc-4d3f-a0bc-51f676402e08/logo6-gray.png",
+   "type": "image/png",
+   "resourceType": "image",
+   "size": 549776,
+   "status": 200,
+   "party": "first",
+   "passes": [
+    "desktop",
+    "mobile"
+   ]
+  },
+  {
+   "url": "https://victorfranca.lovable.app/__l5e/assets-v1/12a1cf39-f4c8-4894-826a-23c756ecb570/logo3-gray.png",
+   "file": "site/victorfranca.lovable.app/__l5e/assets-v1/12a1cf39-f4c8-4894-826a-23c756ecb570/logo3-gray.png",
+   "type": "image/png",
+   "resourceType": "image",
+   "size": 230686,
+   "status": 200,
+   "party": "first",
+   "passes": [
+    "desktop",
+    "mobile"
+   ]
+  },
+  {
+   "url": "https://victorfranca.lovable.app/__l5e/assets-v1/17aed14c-d9a4-408e-ba3a-07fcecbaa15b/logo32-gray.png",
+   "file": "site/victorfranca.lovable.app/__l5e/assets-v1/17aed14c-d9a4-408e-ba3a-07fcecbaa15b/logo32-gray.png",
+   "type": "image/png",
+   "resourceType": "image",
+   "size": 292449,
+   "status": 200,
+   "party": "first",
+   "passes": [
+    "desktop",
+    "mobile"
+   ]
+  },
+  {
+   "url": "https://victorfranca.lovable.app/__l5e/assets-v1/1daa0136-c71a-4dc6-9225-99bd00630ad6/logo8-gray.png",
+   "file": "site/victorfranca.lovable.app/__l5e/assets-v1/1daa0136-c71a-4dc6-9225-99bd00630ad6/logo8-gray.png",
+   "type": "image/png",
+   "resourceType": "image",
+   "size": 457466,
+   "status": 200,
+   "party": "first",
+   "passes": [
+    "desktop",
+    "mobile"
+   ]
+  },
+  {
+   "url": "https://victorfranca.lovable.app/__l5e/assets-v1/22fd832f-e0f9-4d53-a06d-fe8abb7241a2/logo37-gray.png",
+   "file": "site/victorfranca.lovable.app/__l5e/assets-v1/22fd832f-e0f9-4d53-a06d-fe8abb7241a2/logo37-gray.png",
+   "type": "image/png",
+   "resourceType": "image",
+   "size": 123728,
+   "status": 200,
+   "party": "first",
+   "passes": [
+    "mobile",
+    "desktop"
+   ]
+  },
+  {
+   "url": "https://victorfranca.lovable.app/__l5e/assets-v1/26d2c20c-0a90-4d43-bf10-ec518e632829/logo12-gray.png",
+   "file": "site/victorfranca.lovable.app/__l5e/assets-v1/26d2c20c-0a90-4d43-bf10-ec518e632829/logo12-gray.png",
+   "type": "image/png",
+   "resourceType": "image",
+   "size": 627604,
+   "status": 200,
+   "party": "first",
+   "passes": [
+    "desktop"
+   ]
+  },
+  {
+   "url": "https://victorfranca.lovable.app/__l5e/assets-v1/295b8080-10ee-4b6f-8985-a4e8c03b258b/logo23-gray.png",
+   "file": "site/victorfranca.lovable.app/__l5e/assets-v1/295b8080-10ee-4b6f-8985-a4e8c03b258b/logo23-gray.png",
+   "type": "image/png",
+   "resourceType": "image",
+   "size": 651449,
+   "status": 200,
+   "party": "first",
+   "passes": [
+    "desktop"
+   ]
+  },
+  {
+   "url": "https://victorfranca.lovable.app/__l5e/assets-v1/2c3b7a72-4f49-47ac-bcc5-ed22fef39e47/logo34-gray.png",
+   "file": "site/victorfranca.lovable.app/__l5e/assets-v1/2c3b7a72-4f49-47ac-bcc5-ed22fef39e47/logo34-gray.png",
+   "type": "image/png",
+   "resourceType": "image",
+   "size": 224661,
+   "status": 200,
+   "party": "first",
+   "passes": [
+    "desktop",
+    "mobile"
+   ]
+  },
+  {
+   "url": "https://victorfranca.lovable.app/__l5e/assets-v1/30dd4ba2-9c84-4502-a996-0766ed4d72b0/logo28-gray.png",
+   "file": "site/victorfranca.lovable.app/__l5e/assets-v1/30dd4ba2-9c84-4502-a996-0766ed4d72b0/logo28-gray.png",
+   "type": "image/png",
+   "resourceType": "image",
+   "size": 530755,
+   "status": 200,
+   "party": "first",
+   "passes": [
+    "desktop"
+   ]
+  },
+  {
+   "url": "https://victorfranca.lovable.app/__l5e/assets-v1/42bfda04-ddb9-42be-97d1-3a7b33f29b17/logo20-gray.png",
+   "file": "site/victorfranca.lovable.app/__l5e/assets-v1/42bfda04-ddb9-42be-97d1-3a7b33f29b17/logo20-gray.png",
+   "type": "image/png",
+   "resourceType": "image",
+   "size": 139249,
+   "status": 200,
+   "party": "first",
+   "passes": [
+    "desktop"
+   ]
+  },
+  {
+   "url": "https://victorfranca.lovable.app/__l5e/assets-v1/46580d75-b0e5-4134-8122-011ceef15277/logo21-gray.png",
+   "file": "site/victorfranca.lovable.app/__l5e/assets-v1/46580d75-b0e5-4134-8122-011ceef15277/logo21-gray.png",
+   "type": "image/png",
+   "resourceType": "image",
+   "size": 358443,
+   "status": 200,
+   "party": "first",
+   "passes": [
+    "desktop",
+    "mobile"
+   ]
+  },
+  {
+   "url": "https://victorfranca.lovable.app/__l5e/assets-v1/5f70a781-5e77-4fb7-8ac6-94f74ee64b88/logo14-gray.png",
+   "file": "site/victorfranca.lovable.app/__l5e/assets-v1/5f70a781-5e77-4fb7-8ac6-94f74ee64b88/logo14-gray.png",
+   "type": "image/png",
+   "resourceType": "image",
+   "size": 643524,
+   "status": 200,
+   "party": "first",
+   "passes": [
+    "desktop"
+   ]
+  },
+  {
+   "url": "https://victorfranca.lovable.app/__l5e/assets-v1/644ee9f9-7966-45e1-a7d5-1d79f6817c2e/logo15-gray.png",
+   "file": "site/victorfranca.lovable.app/__l5e/assets-v1/644ee9f9-7966-45e1-a7d5-1d79f6817c2e/logo15-gray.png",
+   "type": "image/png",
+   "resourceType": "image",
+   "size": 181324,
+   "status": 200,
+   "party": "first",
+   "passes": [
+    "desktop"
+   ]
+  },
+  {
+   "url": "https://victorfranca.lovable.app/__l5e/assets-v1/685658ca-58f8-4693-993b-4547ab37f95a/logo1-gray.png",
+   "file": "site/victorfranca.lovable.app/__l5e/assets-v1/685658ca-58f8-4693-993b-4547ab37f95a/logo1-gray.png",
+   "type": "image/png",
+   "resourceType": "image",
+   "size": 183702,
+   "status": 200,
+   "party": "first",
+   "passes": [
+    "desktop",
+    "mobile"
+   ]
+  },
+  {
+   "url": "https://victorfranca.lovable.app/__l5e/assets-v1/691f6d61-9db6-4ab4-b5d4-7672d8f422a2/logo18-gray.png",
+   "file": "site/victorfranca.lovable.app/__l5e/assets-v1/691f6d61-9db6-4ab4-b5d4-7672d8f422a2/logo18-gray.png",
+   "type": "image/png",
+   "resourceType": "image",
+   "size": 105841,
+   "status": 200,
+   "party": "first",
+   "passes": [
+    "desktop"
+   ]
+  },
+  {
+   "url": "https://victorfranca.lovable.app/__l5e/assets-v1/6bc3fdab-a748-483d-b45b-a319ffadda9f/logo2-gray.png",
+   "file": "site/victorfranca.lovable.app/__l5e/assets-v1/6bc3fdab-a748-483d-b45b-a319ffadda9f/logo2-gray.png",
+   "type": "image/png",
+   "resourceType": "image",
+   "size": 258988,
+   "status": 200,
+   "party": "first",
+   "passes": [
+    "desktop",
+    "mobile"
+   ]
+  },
+  {
+   "url": "https://victorfranca.lovable.app/__l5e/assets-v1/7088b716-e39e-4e22-a617-1e004f8a926d/logo29-gray.png",
+   "file": "site/victorfranca.lovable.app/__l5e/assets-v1/7088b716-e39e-4e22-a617-1e004f8a926d/logo29-gray.png",
+   "type": "image/png",
+   "resourceType": "image",
+   "size": 902496,
+   "status": 200,
+   "party": "first",
+   "passes": [
+    "desktop"
+   ]
+  },
+  {
+   "url": "https://victorfranca.lovable.app/__l5e/assets-v1/75a04ab5-8533-4f11-ab4f-6b2d3d47080b/logo9-gray.png",
+   "file": "site/victorfranca.lovable.app/__l5e/assets-v1/75a04ab5-8533-4f11-ab4f-6b2d3d47080b/logo9-gray.png",
+   "type": "image/png",
+   "resourceType": "image",
+   "size": 252501,
+   "status": 200,
+   "party": "first",
+   "passes": [
+    "desktop",
+    "mobile"
+   ]
+  },
+  {
+   "url": "https://victorfranca.lovable.app/__l5e/assets-v1/78354735-b05f-40be-b930-66cc0aed3f5d/logo22-gray.png",
+   "file": "site/victorfranca.lovable.app/__l5e/assets-v1/78354735-b05f-40be-b930-66cc0aed3f5d/logo22-gray.png",
+   "type": "image/png",
+   "resourceType": "image",
+   "size": 293063,
+   "status": 200,
+   "party": "first",
+   "passes": [
+    "desktop",
+    "mobile"
+   ]
+  },
+  {
+   "url": "https://victorfranca.lovable.app/__l5e/assets-v1/7ef057a9-efa0-47ba-a773-13bbd6a8ce6f/victor.png",
+   "file": "site/victorfranca.lovable.app/__l5e/assets-v1/7ef057a9-efa0-47ba-a773-13bbd6a8ce6f/victor.png",
+   "type": "image/png",
+   "resourceType": "image",
+   "size": 1654368,
+   "status": 200,
+   "party": "first",
+   "passes": [
+    "desktop",
+    "mobile"
+   ]
+  },
+  {
+   "url": "https://victorfranca.lovable.app/__l5e/assets-v1/87c64e85-4cf6-4f8a-a6bd-f08da9d3cf30/logo27-gray.png",
+   "file": "site/victorfranca.lovable.app/__l5e/assets-v1/87c64e85-4cf6-4f8a-a6bd-f08da9d3cf30/logo27-gray.png",
+   "type": "image/png",
+   "resourceType": "image",
+   "size": 246950,
+   "status": 200,
+   "party": "first",
+   "passes": [
+    "desktop"
+   ]
+  },
+  {
+   "url": "https://victorfranca.lovable.app/__l5e/assets-v1/88f5af59-ae6f-4408-a551-76875ba50045/logo38-gray.png",
+   "file": "site/victorfranca.lovable.app/__l5e/assets-v1/88f5af59-ae6f-4408-a551-76875ba50045/logo38-gray.png",
+   "type": "image/png",
+   "resourceType": "image",
+   "size": 99053,
+   "status": 200,
+   "party": "first",
+   "passes": [
+    "desktop",
+    "mobile"
+   ]
+  },
+  {
+   "url": "https://victorfranca.lovable.app/__l5e/assets-v1/8dc7d725-754f-4cd0-8d25-c7f8da36b366/logo7-gray.png",
+   "file": "site/victorfranca.lovable.app/__l5e/assets-v1/8dc7d725-754f-4cd0-8d25-c7f8da36b366/logo7-gray.png",
+   "type": "image/png",
+   "resourceType": "image",
+   "size": 247698,
+   "status": 200,
+   "party": "first",
+   "passes": [
+    "desktop",
+    "mobile"
+   ]
+  },
+  {
+   "url": "https://victorfranca.lovable.app/__l5e/assets-v1/8e13533f-7adf-46d2-86c2-a4472179160f/logo10-gray.png",
+   "file": "site/victorfranca.lovable.app/__l5e/assets-v1/8e13533f-7adf-46d2-86c2-a4472179160f/logo10-gray.png",
+   "type": "image/png",
+   "resourceType": "image",
+   "size": 550069,
+   "status": 200,
+   "party": "first",
+   "passes": [
+    "desktop",
+    "mobile"
+   ]
+  },
+  {
+   "url": "https://victorfranca.lovable.app/__l5e/assets-v1/917a8891-98dd-44df-9f8f-181a6e2f3f8f/logo24-gray.png",
+   "file": "site/victorfranca.lovable.app/__l5e/assets-v1/917a8891-98dd-44df-9f8f-181a6e2f3f8f/logo24-gray.png",
+   "type": "image/png",
+   "resourceType": "image",
+   "size": 205561,
+   "status": 200,
+   "party": "first",
+   "passes": [
+    "desktop"
+   ]
+  },
+  {
+   "url": "https://victorfranca.lovable.app/__l5e/assets-v1/aa678460-11a5-4cc6-8ce6-41f16e1d596a/logo26-gray.png",
+   "file": "site/victorfranca.lovable.app/__l5e/assets-v1/aa678460-11a5-4cc6-8ce6-41f16e1d596a/logo26-gray.png",
+   "type": "image/png",
+   "resourceType": "image",
+   "size": 263858,
+   "status": 200,
+   "party": "first",
+   "passes": [
+    "desktop"
+   ]
+  },
+  {
+   "url": "https://victorfranca.lovable.app/__l5e/assets-v1/b3251906-9582-4569-bbef-f39c197eebe2/logo16-gray.png",
+   "file": "site/victorfranca.lovable.app/__l5e/assets-v1/b3251906-9582-4569-bbef-f39c197eebe2/logo16-gray.png",
+   "type": "image/png",
+   "resourceType": "image",
+   "size": 605118,
+   "status": 200,
+   "party": "first",
+   "passes": [
+    "desktop"
+   ]
+  },
+  {
+   "url": "https://victorfranca.lovable.app/__l5e/assets-v1/bde549de-850e-411b-9477-4d4d1de05df2/logo36-gray.png",
+   "file": "site/victorfranca.lovable.app/__l5e/assets-v1/bde549de-850e-411b-9477-4d4d1de05df2/logo36-gray.png",
+   "type": "image/png",
+   "resourceType": "image",
+   "size": 282124,
+   "status": 200,
+   "party": "first",
+   "passes": [
+    "desktop",
+    "mobile"
+   ]
+  },
+  {
+   "url": "https://victorfranca.lovable.app/__l5e/assets-v1/c1d8f0ec-1422-47f4-ae05-3c2452d39ba0/logo4-gray.png",
+   "file": "site/victorfranca.lovable.app/__l5e/assets-v1/c1d8f0ec-1422-47f4-ae05-3c2452d39ba0/logo4-gray.png",
+   "type": "image/png",
+   "resourceType": "image",
+   "size": 256414,
+   "status": 200,
+   "party": "first",
+   "passes": [
+    "desktop",
+    "mobile"
+   ]
+  },
+  {
+   "url": "https://victorfranca.lovable.app/__l5e/assets-v1/caa02ebd-dcfa-4f50-a6d4-7e2dde33afa5/logo25-gray.png",
+   "file": "site/victorfranca.lovable.app/__l5e/assets-v1/caa02ebd-dcfa-4f50-a6d4-7e2dde33afa5/logo25-gray.png",
+   "type": "image/png",
+   "resourceType": "image",
+   "size": 382094,
+   "status": 200,
+   "party": "first",
+   "passes": [
+    "desktop"
+   ]
+  },
+  {
+   "url": "https://victorfranca.lovable.app/__l5e/assets-v1/cbf44b4f-0870-46aa-9d41-0f7a2db97d76/logo33-gray.png",
+   "file": "site/victorfranca.lovable.app/__l5e/assets-v1/cbf44b4f-0870-46aa-9d41-0f7a2db97d76/logo33-gray.png",
+   "type": "image/png",
+   "resourceType": "image",
+   "size": 108909,
+   "status": 200,
+   "party": "first",
+   "passes": [
+    "desktop",
+    "mobile"
+   ]
+  },
+  {
+   "url": "https://victorfranca.lovable.app/__l5e/assets-v1/d6714b3a-3b9a-410e-9682-ee4048227e1c/logo13-gray.png",
+   "file": "site/victorfranca.lovable.app/__l5e/assets-v1/d6714b3a-3b9a-410e-9682-ee4048227e1c/logo13-gray.png",
+   "type": "image/png",
+   "resourceType": "image",
+   "size": 189523,
+   "status": 200,
+   "party": "first",
+   "passes": [
+    "desktop"
+   ]
+  },
+  {
+   "url": "https://victorfranca.lovable.app/__l5e/assets-v1/d7ea8f72-c8f5-4644-8038-20d534a027a8/logo19-gray.png",
+   "file": "site/victorfranca.lovable.app/__l5e/assets-v1/d7ea8f72-c8f5-4644-8038-20d534a027a8/logo19-gray.png",
+   "type": "image/png",
+   "resourceType": "image",
+   "size": 469865,
+   "status": 200,
+   "party": "first",
+   "passes": [
+    "desktop"
+   ]
+  },
+  {
+   "url": "https://victorfranca.lovable.app/__l5e/assets-v1/d94e935a-e654-4526-a511-f9eb4fea476b/logo35-gray.png",
+   "file": "site/victorfranca.lovable.app/__l5e/assets-v1/d94e935a-e654-4526-a511-f9eb4fea476b/logo35-gray.png",
+   "type": "image/png",
+   "resourceType": "image",
+   "size": 196453,
+   "status": 200,
+   "party": "first",
+   "passes": [
+    "desktop",
+    "mobile"
+   ]
+  },
+  {
+   "url": "https://victorfranca.lovable.app/__l5e/assets-v1/e8af39ff-e28c-493d-adf0-c61e45fe0138/logo31-gray.png",
+   "file": "site/victorfranca.lovable.app/__l5e/assets-v1/e8af39ff-e28c-493d-adf0-c61e45fe0138/logo31-gray.png",
+   "type": "image/png",
+   "resourceType": "image",
+   "size": 137309,
+   "status": 200,
+   "party": "first",
+   "passes": [
+    "desktop"
+   ]
+  },
+  {
+   "url": "https://victorfranca.lovable.app/__l5e/assets-v1/e941320a-1719-47ee-8bba-8dfa0b82cb80/logo11-gray.png",
+   "file": "site/victorfranca.lovable.app/__l5e/assets-v1/e941320a-1719-47ee-8bba-8dfa0b82cb80/logo11-gray.png",
+   "type": "image/png",
+   "resourceType": "image",
+   "size": 329877,
+   "status": 200,
+   "party": "first",
+   "passes": [
+    "desktop"
+   ]
+  },
+  {
+   "url": "https://victorfranca.lovable.app/__l5e/assets-v1/ea6c4644-b29c-4692-a816-c43eca99bcfd/logo30-gray.png",
+   "file": "site/victorfranca.lovable.app/__l5e/assets-v1/ea6c4644-b29c-4692-a816-c43eca99bcfd/logo30-gray.png",
+   "type": "image/png",
+   "resourceType": "image",
+   "size": 316847,
+   "status": 200,
+   "party": "first",
+   "passes": [
+    "desktop"
+   ]
+  },
+  {
+   "url": "https://victorfranca.lovable.app/__l5e/events.270c78a44fc53e7b.js",
+   "file": "site/victorfranca.lovable.app/__l5e/events.270c78a44fc53e7b.js",
+   "type": "application/javascript",
+   "resourceType": "script",
+   "size": 29187,
+   "status": 200,
+   "party": "first",
+   "passes": [
+    "desktop",
+    "mobile"
+   ],
+   "role": "site"
+  },
+  {
+   "url": "https://victorfranca.lovable.app/__l5e/trackevents",
+   "file": "site/victorfranca.lovable.app/__l5e/trackevents__post512e2921.json",
+   "type": "application/json",
+   "resourceType": "fetch",
+   "size": 17,
+   "status": 202,
+   "party": "first",
+   "passes": [
+    "desktop"
+   ]
+  },
+  {
+   "url": "https://victorfranca.lovable.app/__l5e/trackevents",
+   "file": "site/victorfranca.lovable.app/__l5e/trackevents__post80fbe706.json",
+   "type": "application/json",
+   "resourceType": "fetch",
+   "size": 17,
+   "status": 202,
+   "party": "first",
+   "passes": [
+    "mobile"
+   ]
+  },
+  {
+   "url": "https://victorfranca.lovable.app/__l5e/trackevents",
+   "file": "site/victorfranca.lovable.app/__l5e/trackevents__postcd196f83.json",
+   "type": "application/json",
+   "resourceType": "fetch",
+   "size": 17,
+   "status": 202,
+   "party": "first",
+   "passes": [
+    "mobile"
+   ]
+  },
+  {
+   "url": "https://victorfranca.lovable.app/__l5e/trackevents",
+   "file": "site/victorfranca.lovable.app/__l5e/trackevents__postcfe363cd.json",
+   "type": "application/json",
+   "resourceType": "fetch",
+   "size": 17,
+   "status": 202,
+   "party": "first",
+   "passes": [
+    "desktop"
+   ]
+  },
+  {
+   "url": "https://victorfranca.lovable.app/assets/index-4FrN_ENo.js",
+   "file": "site/victorfranca.lovable.app/assets/index-4FrN_ENo.js",
+   "type": "text/javascript",
+   "resourceType": "script",
+   "size": 345447,
+   "status": 200,
+   "party": "first",
+   "passes": [
+    "desktop",
+    "mobile"
+   ],
+   "role": "site"
+  },
+  {
+   "url": "https://victorfranca.lovable.app/assets/routes-yuGZ1V2C.js",
+   "file": "site/victorfranca.lovable.app/assets/routes-yuGZ1V2C.js",
+   "type": "text/javascript",
+   "resourceType": "script",
+   "size": 35488,
+   "status": 200,
+   "party": "first",
+   "passes": [
+    "desktop",
+    "mobile"
+   ],
+   "role": "site"
+  },
+  {
+   "url": "https://victorfranca.lovable.app/assets/styles-DGADIc0s.css",
+   "file": "site/victorfranca.lovable.app/assets/styles-DGADIc0s.css",
+   "type": "text/css",
+   "resourceType": "stylesheet",
+   "size": 88047,
+   "status": 200,
+   "party": "first",
+   "passes": [
+    "desktop",
+    "mobile"
+   ],
+   "role": "site"
+  },
+  {
+   "url": "https://victorfranca.lovable.app/favicon.ico",
+   "file": "site/victorfranca.lovable.app/favicon.ico",
+   "type": "image/vnd.microsoft.icon",
+   "resourceType": "other",
+   "size": 20373,
+   "status": 200,
+   "party": "first",
+   "passes": [
+    "desktop"
+   ]
+  },
+  {
+   "url": "https://victorfranca.lovable.app/",
+   "file": "site/victorfranca.lovable.app/index.html",
+   "type": "text/html",
+   "resourceType": "document",
+   "size": 70335,
+   "status": 200,
+   "party": "first",
+   "passes": [
+    "desktop",
+    "mobile"
+   ]
+  },
+  {
+   "url": "https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&family=Playfair+Display:ital,wght@0,400;0,600;1,400&display=swap",
+   "file": "site/fonts.googleapis.com/css2__qf8afb697.css",
+   "type": "text/css",
+   "resourceType": "stylesheet",
+   "size": 15103,
+   "status": 200,
+   "party": "third",
+   "passes": [
+    "desktop",
+    "mobile"
+   ],
+   "role": "third-party"
+  },
+  {
+   "url": "https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7W0Q5nw.woff2",
+   "file": "site/fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7W0Q5nw.woff2",
+   "type": "font/woff2",
+   "resourceType": "font",
+   "size": 48432,
+   "status": 200,
+   "party": "third",
+   "passes": [
+    "desktop",
+    "mobile"
+   ]
+  },
+  {
+   "url": "https://fonts.gstatic.com/s/playfairdisplay/v40/nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_qiTXtHA-X-oE0o.woff2",
+   "file": "site/fonts.gstatic.com/s/playfairdisplay/v40/nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_qiTXtHA-X-oE0o.woff2",
+   "type": "font/woff2",
+   "resourceType": "font",
+   "size": 21920,
+   "status": 200,
+   "party": "third",
+   "passes": [
+    "mobile"
+   ]
+  },
+  {
+   "url": "https://fonts.gstatic.com/s/playfairdisplay/v40/nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_qiTXtHA-X-uE0qEEw.woff2",
+   "file": "site/fonts.gstatic.com/s/playfairdisplay/v40/nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_qiTXtHA-X-uE0qEEw.woff2",
+   "type": "font/woff2",
+   "resourceType": "font",
+   "size": 21952,
+   "status": 200,
+   "party": "third",
+   "passes": [
+    "desktop"
+   ]
+  },
+  {
+   "url": "https://fonts.gstatic.com/s/playfairdisplay/v40/nuFiD-vYSZviVYUb_rj3ij__anPXDTzYgEM86xQ.woff2",
+   "file": "site/fonts.gstatic.com/s/playfairdisplay/v40/nuFiD-vYSZviVYUb_rj3ij__anPXDTzYgEM86xQ.woff2",
+   "type": "font/woff2",
+   "resourceType": "font",
+   "size": 38460,
+   "status": 200,
+   "party": "third",
+   "passes": [
+    "desktop",
+    "mobile"
+   ]
+  }
+ ]
+}
